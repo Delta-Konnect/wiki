@@ -1,4 +1,4 @@
-# Delta Konnect Knowledge Base
+# Delta's Wiki
 
 ## RFID
 
