@@ -22,7 +22,7 @@ A system essentially consists of the following components:
   
 ---
   
-  RFID can be seen as a modern barcode alternative. It is not based on optics but radio technology. Therefore, there is no need for a direct line of sight. Reads are recognized up to 6 meters and 200 reads/second are possible. Different from barcodes it enables bulk recognition. That means dozens or hundreds of products can be scanned at the very same moment.
+  RFID can be seen as a modern barcode alternative. It is not based on optics but radio technology. Therefore, there is no need for a direct line of sight. Reads are recognized up to 6 meters and 200 reads/second are possible. Unlike barcodes it makes bulk recognition possible. That means dozens or hundreds of products can be scanned at the very same moment.
   RFID at the UHF band (Ultra High Frequency, here 867-920 MHz) was introduced around 2005. Only recently the tag costs fell under the critical price of $0.10 per tag. Making it interesting for thousands of companies deeming it to be too expensive before.
 
 </details>
