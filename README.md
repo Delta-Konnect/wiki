@@ -131,7 +131,7 @@ If an optional serial number is provided then GRAIs can be converted into a vali
   
   The Electronic Product Code is a universal identifier that provides a unique identity for every physical object. The EPC structure is defined in the open standard _EPCglobal Tag Data Standard_. Most commonly it occurs as 24 hexadecimal characters (96-bits) which can be written into memory banks.
   EPCs are therefore used to encode RFID tags.
-  EPCs can be derived en-/decoded from SGTIN, GRAI, SSCC and other standards carrying enough information.
+  EPCs can be en-/decoded from SGTIN, GRAI, SSCC and other standards carrying enough information.
   Although necessary for encoding memory banks, EPC obviously provides redundant information (being converted from the other GS1 standards). This is why the EPC is mostly used inside middleware applications and not printed in clear text or barcode onto an item. 
   
 </details>
