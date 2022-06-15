@@ -28,9 +28,9 @@ A system essentially consists of the following components:
 <details>
   <summary><b>What is an ERP?</b> <br />&nbsp; </summary> 
   
-  An Enterprise Ressource Planner is a comprehensive management software used by companies to manage their distribution/logistics, customer relations, sales, production, human ressources and many more in one place. It is practically the future of modern companies and seen consistent growth over the last years.
+  An **E**nterprise **R**essource **P**lanner is a comprehensive management software used by companies to manage their distribution/logistics, customer relations, sales, production, human ressources and many more in one place. It is practically the future of modern companies and seen consistent growth over the last years.
   
-  One of the biggest providers are SAP (HANA), Oracle (Fusion), Microsoft (Dynamics 365), Infor and SAGE.
+  One of the biggest providers are _SAP (HANA)_, _Oracle (Fusion)_, _Microsoft (Dynamics 365)_, _Infor_ and _SAGE_.
   
   <img src="https://user-images.githubusercontent.com/99175739/173815367-cae1af8f-96b8-435c-9e63-9bd498ffe1f9.png" width=40%>
   
