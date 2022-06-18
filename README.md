@@ -42,6 +42,8 @@ A system essentially consists of the following components:
   
 </details>
 
+<details>
+  <summary><b>GS1 & Product Labelling</b> <br />&nbsp; </summary> <blockquote>
 
 <details>
   <summary><b>Who is GS1?</b> <br />&nbsp; </summary> 
@@ -128,3 +130,4 @@ If an optional serial number is provided then GRAIs can be converted into a vali
   
 </details>
 
+</blockquote></details>
