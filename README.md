@@ -83,16 +83,6 @@ Example: Shirt with 3x colors and 4x sizes = 12 GTINs
   
 </details>
 
-<details>
-  <summary><b>What is the SGTIN?</b> <br />&nbsp; </summary> 
-  
-  The GTIN (formerly EAN) is called Global Trade Identification Number and corresponds to the product category. Each product of a category carries the same GTIN.
-Example: Shirt with 3x colors and 4x sizes = 12 GTINs
-  
-  <img src="https://user-images.githubusercontent.com/99175739/173854582-701dea3a-1346-4a86-bcbf-a48a08edeace.png" width=40%>
-  
-</details>
-
 
 <details>
   <summary><b>What is the SGTIN?</b> <br />&nbsp; </summary> 
