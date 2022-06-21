@@ -18,7 +18,7 @@ A system essentially consists of the following components:
 
 **Gateway**
 
-  The gateway represents the process and control unit of the system. The data from the RFID reader is filtered here and passed on to the existing warehouse management system/ERP in real time.
+  The gateway represents the process and control unit of the system. The data from the RFID reader is filtered here and passed on to the existing warehouse management system/ERP in real time. The Gateway can simply be a piece of on-premise hardware or a combination of an on-premise device and a cloud-based solution.
   
 ---
   
