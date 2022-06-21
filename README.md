@@ -50,7 +50,7 @@ A system essentially consists of the following components:
 <details>
   <summary><b>Who is GS1?</b> <br />&nbsp; </summary> 
   
-  GS1 is an international organization developing and maintaining standards in over 100 countries. Those standards include barcodes and numerical guidelines for RFID implementations. Standards such as GTIN and EPC are very common and therefore supported across most hardware manufacturers. Merchants and solution providers have to register with GS1 in order to receive their unique range of numbers.
+  GS1 is an international organization developing and maintaining standards in over 100 countries. Those standards include barcodes and numerical guidelines for RFID implementations. Standards such as GTIN and EPC are very common and therefore supported across most hardware manufacturers. Merchants and solution providers have to register with GS1 in order to generate their own unique range of numbers.
   
 </details>
 
