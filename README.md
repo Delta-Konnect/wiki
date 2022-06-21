@@ -8,6 +8,8 @@
   RFID (**R**adio **F**requency **Id**entification) refers to automatic and contactless communication systems for object recognition.
 A system essentially consists of the following components:
 
+<img src="https://user-images.githubusercontent.com/99175739/174800776-abd0f8cc-cc5d-4445-b663-be21eac18c6d.png" width=32% align=right>  
+  
 **Tag**
 
   Labels (also called "transponders" or "tags") can be attached to any object. A variety of different types are available. Labels can be attached via stickers, screws or fastened with cable ties or inserted into the existing inventory with epoxy resin.
@@ -19,11 +21,11 @@ A system essentially consists of the following components:
 **Gateway**
 
   The gateway represents the process and control unit of the system. The data from the RFID reader is filtered here and passed on to the existing warehouse management system/ERP in real time. The Gateway can simply be a piece of on-premise hardware or a combination of an on-premise device and a cloud-based solution.
-  
+
 ---
   
   RFID can be seen as a modern barcode alternative. It is not based on optics but radio technology. Therefore, there is no need for a direct line of sight. Reads are recognized up to 6 meters and 200 reads/second are possible. Unlike barcodes it makes bulk recognition possible. That means dozens or hundreds of products can be scanned at the very same moment.
-  RFID at the UHF band (Ultra High Frequency, here 867-920 MHz) was introduced around 2005. Only recently the tag costs fell under the critical price of $0.10 per tag. Making it interesting for thousands of companies deeming it to be too expensive before.
+  RFID at the UHF band (Ultra High Frequency, 867-920 MHz, depending on region) was introduced around 2005. Only recently the tag costs fell under the critical price of $0.10 per tag. Making it interesting for thousands of companies deeming it to be too expensive before. RFID enables you to automate your supply chain by facing less conditional restraints. For example you don't need a pallet being turned to a specific direction just to scan its barcode while arriving at the warehouse. In fact, you don't need any of your workers there at all.
 
 </details>
 
